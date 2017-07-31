@@ -1,0 +1,8 @@
+/Users/brookkebede/Desktop/CSharp/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.deps.json
+/Users/brookkebede/Desktop/CSharp/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.runtimeconfig.json
+/Users/brookkebede/Desktop/CSharp/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.runtimeconfig.dev.json
+/Users/brookkebede/Desktop/CSharp/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.dll
+/Users/brookkebede/Desktop/CSharp/fundamentals1/bin/Debug/netcoreapp1.1/fundamentals1.pdb
+/Users/brookkebede/Desktop/CSharp/fundamentals1/obj/Debug/netcoreapp1.1/fundamentals1.AssemblyInfo.cs
+/Users/brookkebede/Desktop/CSharp/fundamentals1/obj/Debug/netcoreapp1.1/fundamentals1.dll
+/Users/brookkebede/Desktop/CSharp/fundamentals1/obj/Debug/netcoreapp1.1/fundamentals1.pdb
